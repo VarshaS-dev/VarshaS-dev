@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Varsha 👋
 
-<!--
-**VarshaS-dev/VarshaS-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at NIT Durgapur building full-stack applications and backend systems.
 
-Here are some ideas to get you started:
+I enjoy working with React, Next.js, FastAPI, Python, and graph databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring system design, scalable architectures, and AI-powered applications.
+
+A few things I've built:
+
+* 🚆 RailLink — multi-hop train route planner
+* 📄 ChapterBot — AI document Q&A system
+* 🌱 Prakriti — official club website at NIT Durgapur
+
+Solved 300+ DSA problems and semi-finalist at SIH 2025.
+
+I like building things, debugging weird issues, and turning ideas into real projects.
